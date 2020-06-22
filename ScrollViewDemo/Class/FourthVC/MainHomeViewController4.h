@@ -1,0 +1,17 @@
+//
+//  MainHomeViewController4.h
+//  ScrollViewDemo
+//
+//  Created by lixinlot on 2020/3/27.
+//  Copyright © 2020 Jimmy. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface MainHomeViewController4 : UIViewController
+
+@end
+
+NS_ASSUME_NONNULL_END
